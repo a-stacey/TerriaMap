@@ -1,5 +1,5 @@
 {
-  "name": "terriajs-map",
+  "name": "as-aws-debug",
   "version": "0.0.1",
   "description": "Geospatial catalog explorer based on TerriaJS.",
   "license": "Apache-2.0",
@@ -53,7 +53,7 @@
     "semver": "^5.0.0",
     "style-loader": "^0.17.0",
     "svg-sprite-loader": "^0.3.0",
-    "terriajs": "5.2.3",
+    "terriajs": "https://github.com/a-stacey/terriajs.git#as_aws_debug",
     "terriajs-catalog-editor": "^0.2.0",
     "terriajs-cesium": "1.33.0",
     "terriajs-schema": "latest",
